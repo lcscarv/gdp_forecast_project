@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "feature-pipeline"
+version = "0.1.0"
+description = ""
+authors = ["Lucas Carvalho <lucas.carvalho@indicium.tech>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+hopsworks = "^3.2.0"
+pandas = "^1.5.3"
+requests = "^2.31.0"
+miceforest = "^5.6.3"
+numpy = "^1.24.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

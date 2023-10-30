@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lcscrv/projetos/pessoais/gdp_time_series/gdp-time-series/notebooks/mlruns/0/63ecd76454d045eb9929342811cf8b93/artifacts
+end_time: 1697146005834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ecd76454d045eb9929342811cf8b93
+run_name: polite-roo-442
+run_uuid: 63ecd76454d045eb9929342811cf8b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697146004439
+status: 3
+tags: []
+user_id: lcscrv

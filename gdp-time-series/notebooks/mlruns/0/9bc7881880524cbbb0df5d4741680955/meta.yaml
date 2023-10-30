@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lcscrv/projetos/pessoais/gdp_time_series/gdp-time-series/notebooks/mlruns/0/9bc7881880524cbbb0df5d4741680955/artifacts
+end_time: 1697145676311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bc7881880524cbbb0df5d4741680955
+run_name: illustrious-fawn-140
+run_uuid: 9bc7881880524cbbb0df5d4741680955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697145631203
+status: 4
+tags: []
+user_id: lcscrv

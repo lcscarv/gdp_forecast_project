@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lcscrv/projetos/pessoais/gdp_time_series/gdp-time-series/notebooks/mlruns/0/9733e300adde4c90a513225265889fdc/artifacts
+end_time: 1697145979270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9733e300adde4c90a513225265889fdc
+run_name: exultant-lark-758
+run_uuid: 9733e300adde4c90a513225265889fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697145978434
+status: 4
+tags: []
+user_id: lcscrv

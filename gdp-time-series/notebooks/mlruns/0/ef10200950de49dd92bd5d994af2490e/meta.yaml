@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lcscrv/projetos/pessoais/gdp_time_series/gdp-time-series/notebooks/mlruns/0/ef10200950de49dd92bd5d994af2490e/artifacts
+end_time: 1697145940141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef10200950de49dd92bd5d994af2490e
+run_name: auspicious-quail-529
+run_uuid: ef10200950de49dd92bd5d994af2490e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697145936399
+status: 4
+tags: []
+user_id: lcscrv
