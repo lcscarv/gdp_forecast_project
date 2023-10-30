@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gdp-time-series",
+  "private_key_id": "2888cbaa5c8bc5dcd535341c7d2eb5c640f0faa7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDQW4iT6mRk3iZS\nawnLUwKojB0krv+uJ0ACWUQa1exvwvj07qCaYQQt9LPLwJYsvFeHUZ6ECPWf8/ie\n+MyRgNyxMuqOLNDb8vXFa+QGQbKRH97qCon1htiUoPkwGLqpUyAOcUmODMaGGmsH\n8RxIKXRa2owpsb0wmgIm3z6D0XiWA2yrNVdz14cYutIULbYlh0ZZdKlfNFfo/kva\n8xJZvSab+CvninSh90iiyXKkz5+Rtt2PwrbY996oClbeD4+dO0k59Wr3RjYDnrq9\nO4H4/BmIxzjvlCFytefy20xGtXzsI9AjqTsFloDCcf5g8prTmI8t6tchUsvGMJgU\nBG5ZbTYpAgMBAAECgf9fDa1VoS9CFCWXsxR4urmFBf73u3LAmo9JS12FqPTDRu6a\nmwr/GLK7BWBO3/NRUEIRNSk7aHMVV23QV496GFVA8RViOjxU49XbR/OFe5hsXZKv\ncgVrpmx5nTk6NEHZ7rdZ9aZ5RwzbN0wesgPO/jvdVJtweN8mWgJL+KLygBYr8SiB\n88mO6cwJuxdJVouv5inXdF899balSTbc6Jepa1rw0d09RPMSte3VfNFczFwTxWwz\nAC1jf6nTAJ/uT/GfptGbPkNmQtcGFsEEOroL2bbHx5wnPtB3sR4LUzS5vNdsfexH\n1JU35YPOA65tq6daO5oI84r9QROXRqU0WhxIsUECgYEA/RxhlujB4tjtxXrrkaWN\nin7HnAOGd6xlEJaKTwtxbRVhAw6eZK5gNta3QIOEjpAsfXUDz2UYfppC9/wb0DAc\nq7vuR7eQtVnu+pN2gCz8l7PGHcd0+NzTguy+PmJ+4iHeblR7t5g/JCngqbzcAwKa\nFOnm2uC/kx7vPC1exEu6CvkCgYEA0rxgxgw5qmxz9bxTnhE+SFPZbIg0cjdjza0B\nTE8EOdcmoxpTMfh/IL3MsGLIMF0UBmz0Ld63+vnYr0oxZcJpvrYrIVT0sB5qA+o9\nJLV25Dc6WoFfWkObu1v3BRupCzYnbW09D6dxG0TsO4r3jPsYwTAThhRauJ6asjFv\nJLpwoLECgYEAjaeCnnipehG6EJmYmSy0KFyHzjLS4MskzMHTqiVXV5ttbc6SqvpE\ncqx8Zqi0WS0rGROSDFIiAUjITg1Ua5FhmmNVGeIMJNKuQqKg4V9MBoLgT+4+8sBz\nx4RDfJqXNGuMFudFThzwyYZ+a8B8yVp9bVLylnDOBsJ7VYx2yxkuh9ECgYBBG6Jq\njexjEw7gpUbQV1N+1SkftxU9FI/pQ8Ja6S7NEAQH8GIz1iqw2vMaq+pdxuQg+BiY\n8260Q+0Ge023utEg8vdwXOccYskuXHh3lvkcmVOWEtJ6+NhskoVHNryLkjesP0vW\nQk1Xt3ulCdJh5FJJnajqi+9biuUQmOVV26RggQKBgGgBwgQEmG7LxtxgjFzUXpPd\n/1cdN1cqa/h62jxtn3YWDarhkxpOegMC+imhtKpq8d/BYbJIGc1GQpaTE3ldw3Ms\ndrGy+XwaVmPR5PyW29JOZu4rCFBPdCkKygnuK6CabAFOg+DxPWFSJKGZUS9ZpWbM\ntivCt7vbh0het+0sGzOO\n-----END PRIVATE KEY-----\n",
+  "client_email": "time-series-view-account@gdp-time-series.iam.gserviceaccount.com",
+  "client_id": "113387553467118514231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/time-series-view-account%40gdp-time-series.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
